@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    margin: 53px 100px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-section h3 {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.span-bee,.span-home {
+    color: #FF5400;
+}
+
+.logo-section {
+    display: flex;
+    gap: 10px;
+}
+
+nav{
+    display: flex;
+    gap: 40px;
+    text-decoration: none;
+
+}
+
+
+nav a {
+    text-decoration: none;
+    color:#424247;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 18px;
+    font-weight: 400;
+}
+{
+
+}
