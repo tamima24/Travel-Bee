@@ -6,7 +6,7 @@
 body{
     margin: 53px 100px;
 }
-
+/*navbar styles starts here*/
 header {
     display: flex;
     justify-content: space-between;
@@ -45,6 +45,9 @@ nav a {
     font-size: 18px;
     font-weight: 400;
 }
-{
-
+/*navbar styles end here*/
+@media  screen and (max-width:576px) {
+    nav a{
+       display: none;
+    }
 }
